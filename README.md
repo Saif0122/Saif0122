@@ -1,16 +1,41 @@
-## Hi there 👋
+# Full Stack Portfolio — with Multi-Persona AI Assistant
 
-<!--
-**Saif0122/Saif0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My personal portfolio site, built to showcase my full-stack + AI integration work.
+The standout feature: **three separate Gemini-powered AI personas**, each
+scoped to a different part of the site.
 
-Here are some ideas to get you started:
+🔗 **Live:** [saifulislam.vercel.app](https://saifulislam.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 AI Personas
+| Persona | Purpose |
+|---|---|
+| 💬 AI Chat Assistant | General Q&A about my background, skills, availability |
+| ✍️ Blog Page AI | Context-aware assistant that discusses blog content |
+| 📁 Project Page AI | Explains project details, tech choices, and architecture interactively |
+
+Each persona uses a distinct system prompt and context window so responses stay
+relevant to the page the visitor is on — not one generic chatbot bolted onto every page.
+
+## 🛠️ Tech Stack
+- **Frontend:** React, TypeScript, [Tailwind/whatever you used]
+- **Backend:** Node.js, Express
+- **AI:** Google Gemini API
+- **Deployment:** Vercel
+
+## 📸 Screenshots
+*(add 2–3 screenshots here — see note below)*
+
+## 🚀 Running Locally
+\`\`\`bash
+git clone https://github.com/Saif0122/Full-stack-Portfolio.git
+cd Full-stack-Portfolio
+# backend
+cd backend && npm install && npm run dev
+# frontend (new terminal)
+cd frontend && npm install && npm run dev
+\`\`\`
+Add a `.env` with your own `GEMINI_API_KEY`.
+
+## 📬 Contact
+Open to freelance work and full-time roles.
+[LinkedIn](YOUR_LINKEDIN) · [Email](mailto:saifulislamwebdeveloper@gmail.com)
