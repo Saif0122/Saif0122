@@ -23,7 +23,9 @@ relevant to the page the visitor is on — not one generic chatbot bolted onto e
 - **Deployment:** Vercel
 
 ## 📸 Screenshots
-*(add 2–3 screenshots here — see note below)*
+<!-- *(add 2–3 screenshots here — see note below)* -->
+![Portfolio Homepage](../../saif.png)
+
 
 ## 🚀 Running Locally
 \`\`\`bash
