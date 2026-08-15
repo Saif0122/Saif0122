@@ -24,8 +24,9 @@ relevant to the page the visitor is on — not one generic chatbot bolted onto e
 
 ## 📸 Screenshots
 <!-- *(add 2–3 screenshots here — see note below)* -->
-![Portfolio Homepage](../../saif.png)
-
+![Portfolio Homepage](./home-page.png)
+![Portfolio chatassistant](./chat-assistant.png)
+![Portfolio price calculator](./price.png)
 
 ## 🚀 Running Locally
 \`\`\`bash
