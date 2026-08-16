@@ -1,5 +1,3 @@
-# GitHub Profile README — Recommended Version
-
 # Hi, I'm Saif Ul Islam 👋
 
 **Full-Stack JavaScript / MERN Developer** building production-oriented web applications with **React, TypeScript, Node.js, Express, MongoDB, and AI APIs**.
